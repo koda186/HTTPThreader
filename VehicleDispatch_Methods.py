@@ -123,7 +123,7 @@ class Methods:
             origin="2704 East 22nd St, Austin, TX, 78722",
             destination=dloc,
             waypoints=ploc,
-            key=''  # deleted for sensitivity and deleted api key on google, will use .env file with new key
+            key=''  # delete for sensitivity and deleted api key on google, will use .env file with new key
         )
 
         # IMPORT REQUESTS VS REQUEST LOOKUP!!!
