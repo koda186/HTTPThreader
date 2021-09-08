@@ -1,5 +1,5 @@
 # HTTPThreader
--A Vehicle Simulation using HttpServer and threading via mix-in. My original project is hosted on my bitbucket found at website below: 
+-A Vehicle Simulator using HttpServer and threading via mix-in. My original project is hosted on my bitbucket found at website below: 
 ### https://roberteallen.com
 
 
@@ -7,12 +7,7 @@
 # Mapping Service
 # Vehicle Simulator
 Everything you need to know to understand the vehicle simulation process, as is.
-This File contains Four parts: 
-### 1) Vehicle() 
-### 2) Main()
-### 3) vehicle_methods.py
-### 4) run.py
-
+This File contains Four parts and a Http Server
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
